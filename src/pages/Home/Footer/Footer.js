@@ -13,15 +13,15 @@ const Footer = () => {
     <p>Copyright © 2022 - All right reserved</p>
   </div> 
   <div className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-    <Link className='text-xl'>
+    <a target='_blank ' href='https://www.facebook.com/dibbo.das.353/' className='text-xl'>
     <FaFacebookF></FaFacebookF>
-    </Link> 
-    <Link  className='text-xl'>
+    </a> 
+    <a target='_blank '  href='https://www.linkedin.com/in/dibbo-das/'  className='text-xl'>
     <FaLinkedinIn></FaLinkedinIn>
-</Link>
-    <Link  className='text-xl'>
+</a>
+    <a target='_blank '  href='https://github.com/dibbodas12'  className='text-xl'>
     <FaGithub></FaGithub>
-    </Link>
+    </a>
   </div>
 </footer>
             

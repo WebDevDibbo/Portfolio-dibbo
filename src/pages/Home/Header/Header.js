@@ -38,7 +38,7 @@ const Header = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <Link className="btn">DOWNLOAD CV</Link>
+    {/* <a target='_blank ' className="btn" href="https://drive.google.com/file/d/1SxQ9Qz5HbkJF0BmgnX4l5BROLeBUEAnC/view?usp=sharing"><button>DOWNLOAD CV</button></a> */}
   </div>
 </div>
 
