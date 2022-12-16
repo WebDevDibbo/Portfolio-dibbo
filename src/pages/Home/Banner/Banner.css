@@ -1,0 +1,10 @@
+.downloadbtn{
+    transition:0.5s ;
+}
+.downloadbtn:hover{
+    background :linear-gradient(to right, #721BDF, #CD25AF);
+  
+}
+.name{
+    color: #AB21C1;
+}
