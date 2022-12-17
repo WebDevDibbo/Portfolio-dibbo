@@ -6,11 +6,11 @@ import Header from '../../pages/Home/Header/Header';
 
 const Main = () => {
     return (
-        <div>
-            <Header></Header>
+       
+            <Header>
             <Outlet></Outlet>
             <Footer></Footer>
-        </div>
+            </Header>
     );
 };
 
